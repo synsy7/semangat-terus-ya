@@ -1,0 +1,246 @@
+@import url("https://fonts.cdnfonts.com/css/satoshi");
+
+* {
+  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding-right: 10px; 
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    background-color: white(255, 255, 166);
+  }
+
+
+.login {
+    width: 1728px; 
+    height: 1117px; 
+    background: whitesmoke;
+    justify-content: center; 
+    align-items: flex-start; 
+    display: inline-flex;
+    
+
+}
+
+.frame-427318910 {
+    align-self: stretch; 
+    padding-left: 120px; 
+    padding-right: 120px; 
+    padding-top: 64px; 
+    padding-bottom: 64px; 
+    background: whitesmoke; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+    gap: 184px; 
+    display: inline-flex;
+}
+
+.frame {
+    justify-content: flex-start; 
+    align-items: center; 
+    gap: 8px; 
+    display: grid;
+}
+
+.Frame6 {
+    align-self: stretch; 
+    height: 666px; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    gap: 12px; 
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.Frame2 {
+    width: 256px; 
+    height: 296px; 
+    position: relative;
+    left: 700px; 
+    top: 20px;
+
+}
+
+.Vector {
+    width: 22.50px; 
+    height: 15px; 
+    background: #636262;
+}
+
+.Frame3{
+    align-self: stretch; 
+    justify-content: space-between; 
+    align-items: flex-start; 
+    display: inline-flex;
+}
+
+
+.Image {
+    position: absolute;
+    height: 50rem;
+    width: 45rem;
+    top: 0;
+    left: 7;
+    bottom: 0;
+    vertical-align: baseline;
+    
+}
+
+.Masukan {
+    color: #877f7f; 
+    font-size: 20px; 
+    font-family: satoshi; 
+    font-weight: 400; 
+    line-height: 15px; 
+    word-wrap: break-word;
+    padding-left: 200px;
+    padding-bottom: 100px;
+    position: relative;
+    left: 700px; 
+    bottom: 100px;
+    
+}
+
+.BuatAkun {
+    color: rgb(251, 196, 94); 
+    font-size: 73px; 
+    font-family: satoshi; 
+    font-weight: 400px; 
+    word-wrap: break-word;
+    text-align: center;
+    padding-left: 300px;
+}
+
+.informasi {
+    color: whitesmoke; 
+    font-size: 18px; 
+    font-family: satoshi; 
+    font-weight: 400; 
+    line-height: 27px; 
+    word-wrap: break-word;
+    
+}
+
+.FormInput {
+    padding: 1rem;
+    width: 30rem;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-bottom: 1rem;
+    background-color: white;
+  }
+  
+  input {
+      background-color: #F5F7FA;
+      font-size: 0.8rem;
+  }
+  
+  .MasukanKalimat {
+    flex: 1 2 0;
+    color: white;
+    font-size: 10px;
+    font-family: satoshi;
+    font-weight: 5000px;
+    line-height: 15px;
+    word-wrap: break-word;
+    padding-right: 80px;
+  }
+  
+  .input {
+    align-self: stretch;
+    height: 100px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 8px;
+    display: flex;
+  }
+
+.Button {
+    margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 2rem;
+  color: rgb(6, 0, 0);
+  width: 30rem;
+  border: 1px solid orange;
+  background-color: orange;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  margin-bottom: 3rem;
+  position: relative;
+    left: 730px; 
+    top: 20px;
+    font-family: satoshi;
+    text-align: center;
+}
+
+.Kembali {
+    margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 2rem;
+  color: rgb(6, 0, 0);
+  width: 30rem;
+  border: 1px solid orange;
+  background-color: orange;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  margin-bottom: 3rem;
+  position: relative;
+    left: 730px; 
+    top: 20px;
+    font-family: satoshi;
+    text-align: center;
+
+}
+
+.SudahMemilikiAkunMasuk{
+    color: #1B1B1B; 
+    font-size: 20px; 
+    font-family: satoshi; 
+    font-weight: 400; 
+    line-height: 15px; 
+    word-wrap: break-word;
+    padding-left: 200px;
+    padding-bottom: 100px;
+    position: relative;
+    left: 670px; 
+    bottom: 170px;
+
+}
+
+.Google{
+    color: #877f7f; 
+    font-size: 20px; 
+    font-family: satoshi; 
+    font-weight: 400; 
+    line-height: 15px; 
+    word-wrap: break-word;
+    padding-left: 200px;
+    padding-bottom: 100px;
+    position: relative;
+    left: 700px; 
+    bottom: 100px;
+
+}
+
+span{
+    color: #ec9e00; 
+    font-size: 15px; 
+    font-family: Plus Jakarta Sans; 
+    font-weight: 400; 
+    line-height: 21px; 
+    word-wrap: break-word;
+}
+
+
+
+a {
+    text-decoration: none;
+  }
+    
